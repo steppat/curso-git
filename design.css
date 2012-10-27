@@ -4,5 +4,6 @@ body {
 
 td {
 	background-color: red;
+	color: red;
 	text-decoration: none;
 }
